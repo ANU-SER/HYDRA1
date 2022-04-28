@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /RUDHRA/Dockerfile
+      worker: /BOT/Dockerfile
 run:
    worker: npm start
