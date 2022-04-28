@@ -4,7 +4,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANU-SER/HYDRA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANU-SER/BOT)
      </div>
 
   ### If there is an error deploying, try the following steps
@@ -19,5 +19,5 @@
   click to fork the git into your account
  Click [FORK](https://github.com/ANU-SER/HYDRA/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ANU-SER/HYDRA copy this url and change ameer-kallumthodi with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/ANU-SER/BOT copy this url and change ameer-kallumthodi with your github username and click go<br>
 
