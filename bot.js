@@ -7,8 +7,8 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const princerudh = require("./anshid");
-const rudhra = require('./hydra);
+const anshid = require("./anshid");
+const hydra = require('./hydra);
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
