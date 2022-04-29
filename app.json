@@ -8,8 +8,8 @@
     "success_url": "https://github.com/ANU-SER/BOT",
     "stack": "container",
     "env": {
-        "ANU-SER_SESSION": {
-            "description": "Type here yours ANU-SER Session.",
+        "ANUSER_SESSION": {
+            "description": "Type here yours ANUSER Session.",
             "required": true
         },
         "SUDO": {
