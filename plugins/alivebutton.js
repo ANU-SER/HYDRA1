@@ -17,7 +17,7 @@ var ddd = ggg.toString('utf-8')
 let whb = Config.WORKTYPE == 'public' ? false : true
 
 princerudh.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-// send a buttons message!credit princerudh
+// send a buttons message!credit anshid
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: Config.ALIVE_BUTTON }, type: 1},
         {buttonId: 'id2', buttonText: {displayText: Config.ALIVEBUTTON }, type: 1}
@@ -25,7 +25,7 @@ princerudh.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true},
       
       const buttonMessage = {
           contentText: '```'+Config.BOTV2+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: '₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ',
+          footerText: '₢ᴀɴˢʰⁱᵈ',
           buttons: buttons,
           headerType: 1
       }
