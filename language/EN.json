@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "Rudhra Converts audio to sound recording.",
+            "UV_DESC": "hydra Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Rudhra Converting to Sound Recording..```"
+            "UV_PROC": "```hydra Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
